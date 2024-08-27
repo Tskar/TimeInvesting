@@ -1,7 +1,7 @@
 # Window Tracker App
 
 ## Overview
-The Time Investment App is a Python application built using the tkinter and pygetwindow libraries. It allows users to keep track of the windows they use on their computer and the time they spend on each window.
+Python application built with tkinter and pygetwindow GUI to keep track of time spent on apps.
 
 ## Features
 - **Window Tracking**: The app records the titles of the windows you have open on your computer.
